@@ -1,0 +1,33 @@
+--- 
+title: "Pot pourri"
+author: ""
+date: "`r Sys.Date()`"
+description: "Alles und nichts"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+theme: cerulean
+colorlinks: yes
+bibliography:
+- book.bib
+- packages.bib
+github-repo: studythebible/potpourri
+link-citations: yes
+biblio-style: apalike
+documentclass: krantz
+fontsize: 12pt
+cover-image: img/cover.png
+---
+
+# Übersicht
+
+
+* [Auf festen Grund gebaut - Auszüge](#auf-festen-grund-gebaut)
+
+```{block, type='rmdinfo'}
+**Soli Deo Gloria**
+```
+
+***
+
+Nur für private Zwecke.
+
