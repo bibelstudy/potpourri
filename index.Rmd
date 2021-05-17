@@ -23,6 +23,7 @@ cover-image: img/cover.png
 
 * [Auf festen Grund gebaut - Auszüge](#auf-festen-grund-gebaut)
 * [Die Ziele der Gemeinde](#die-ziele-der-gemeinde)
+* [Das Lamm](#das-lamm)
 
 ```{block, type='rmdinfo'}
 **Soli Deo Gloria**
