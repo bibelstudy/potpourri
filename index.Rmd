@@ -27,6 +27,8 @@ cover-image: img/cover.png
 * [Siehst du das Lamm](#siehst-du-das-lamm)
 * [Schon und noch nicht](#schon-und-noch-nicht)
 * [Gottes Souveränität und menschliche Verantwortung](#gottes-souveraenitaet-und-menschliche-verantwortung)
+* [Die Hochzeit des Lammes](#die-hochzeit-des-lammes)
+
 
 ```{block, type='rmdinfo'}
 **Soli Deo Gloria**
