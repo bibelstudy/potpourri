@@ -7,8 +7,11 @@
 
 ```{block, type='rmdquote'}
 Siehst du das Lamm, in jener Nacht?
+
 Sein Blut an Türen angebracht.
+
 Es rettet vor der des Todes Hand.
+
 Das Volk kann ziehn in neues Land.
 ```
 
@@ -20,8 +23,11 @@ Gott rettete sein Volk durch sein Gericht über Ägypten. Ein Glaubensschritt wa
 
 ```{block, type='rmdquote'}
 Siehst du das Lamm, dort am Altar?
+
 Des Volkes Schuld von einem Jahr
+
 Liegt nun auf ihm, es kauft sie los,
+
 Das Opferlamm, so makellos.
 ```
 
@@ -35,8 +41,11 @@ Das levitische System funktioniert nur, wenn der Anbeter glaubt, dass Gott in de
 
 ```{block, type='rmdquote'}
 Siehst du das Lamm dort an dem Kreuz?
+
 Bezahlt den höchsten Liebespreis.
+
 Es trägt die Last der ganzen Welt,
+
 Von Leid und Schmerzen ganz entstellt.
 ```
 
@@ -50,8 +59,11 @@ Jesus zeigte die Liebe Gottes, indem er wie ein Lamm starb. Er trug das Gericht 
 
 ```{block, type='rmdquote'}
 Siehst du das Lamm dort auf dem Thron?
+
 Der Vater gibt die Macht dem Sohn,
+
 Denn würdig ist allein nur er.
+
 Die Völker singen: Heilig, Herr.
 ```
 
@@ -69,7 +81,9 @@ Es ist vermutlich der Grund, weshalb der Refrain dieser Stelle im Lied von Alber
 
 ```{block, type='rmdquote'}
 Wir beten an
+
 Wir beten an
+
 Wir beten an, das Gottes Lamm
 ```
 
@@ -77,9 +91,13 @@ Wir beten an, das Gottes Lamm
 
 ```{block, type='rmdquote'}
 Siehst du das Lamm auf seinem Arm?
+
 Der gute Hirte hält es warm.
+
 Er ließ die Neunundneunzig stehn.
+
 Es soll ihm keins verloren gehen.
+
 Es soll ihm keins verloren gehen.
 ```
 
